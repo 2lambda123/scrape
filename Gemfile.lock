@@ -223,7 +223,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.2.0)
+    json (2.7.1)
     kramdown (1.17.0)
     kwalify (0.7.2)
     launchy (2.4.3)
